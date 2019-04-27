@@ -1,0 +1,21 @@
+---
+title: "Notes"
+author: "Jamal Bajwa"
+date: "February 23, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Ideas
+
+I need to do the following: 
+
+- Figure out the most filtered model that can be created by removing outlier values on all output predictors etc. 
+-- Filter on:
+--- Output
+--- Input Feed Rate
+--- Zinc Composition in Input
+--- Zinc Composition in Output? 
